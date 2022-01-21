@@ -9,9 +9,13 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 - **Deliverable 4:** A Written Report on the Credit Risk Analysis
 
 ## Results
-- Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
+### Models to Predict Credit Risk
+- Resampling Model:
+- SMOTEENN Algorithm: 
+- Balanced Random Forest Classifier:
+- Easy Ensemble AdaBoost Classifier:
 
 ## Summary
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
-In summary, Easy Ensemble AdaBoost Classifier model may be the best one for preventing fraudulent loan applications because the model's accuracy, 92%, and the precision and recall are good enough to state that the model will be good at classifying fraudulent loan applications. 
+In summary, the Easy Ensemble AdaBoost Classifier model may be the best one for preventing fraudulent loan applications because the model's accuracy is high at 92%, and the precision and recall are good enough to state that the model will be good at classifying fraudulent loan applications. 
