@@ -11,8 +11,12 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 ## Results
 ### Models to Predict Credit Risk
 - **Oversampling Algorithms**
-  - Resampling Model:
-  - SMOTEENN Algorithm: 
+  - Resampling Model:<br>
+  ![SMOTE](https://user-images.githubusercontent.com/90797036/150604777-94c2b6cd-1f69-4654-b48b-40e2e8aa6e1b.png)
+  ![ClusterCentroids](https://user-images.githubusercontent.com/90797036/150604806-e7d40344-7dd4-4762-a4f4-1ea1dfe88f1e.png)
+   - SMOTEENN Algorithm:<br>
+  ![SMOTEENN](https://user-images.githubusercontent.com/90797036/150604841-4c2b2815-9be9-4e9f-8339-d1b89abbb44f.png)
+  
 - **Ensemble Algorithms:**
   - Balanced Random Forest Classifier:
   - Easy Ensemble AdaBoost Classifier:
