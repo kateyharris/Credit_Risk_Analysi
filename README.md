@@ -13,3 +13,5 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 ## Summary
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+
+In summary, Easy Ensemble AdaBoost Classifier model may be the best one for preventing fraudulent loan applications because the model's accuracy, 92%, and the precision and recall are good enough to state that the model will be good at classifying fraudulent loan applications. 
