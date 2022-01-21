@@ -18,10 +18,10 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
   ![SMOTEENN](https://user-images.githubusercontent.com/90797036/150604841-4c2b2815-9be9-4e9f-8339-d1b89abbb44f.png)
   
 - **Ensemble Algorithms:**
-  - Balanced Random Forest Classifier:
-  - Easy Ensemble AdaBoost Classifier:
+  - Balanced Random Forest Classifier:<br>
+  ![forest](https://user-images.githubusercontent.com/90797036/150606772-3b95c0f5-b061-4186-8711-00e63648ad04.png)
+  - Easy Ensemble AdaBoost Classifier:<br>
+  ![EasyEnsemble](https://user-images.githubusercontent.com/90797036/150606798-39155015-5e5f-4157-a991-93d718c69d7c.png)
 
 ## Summary
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
-
 In summary, the Easy Ensemble AdaBoost Classifier model may be the best one for preventing fraudulent loan applications because the model's accuracy is high at 92%, and the precision and recall are good enough to state that the model will be good at classifying fraudulent loan applications. It should be noted that despite not being very accurate the oversampling algoritms were also extra time consuming.
